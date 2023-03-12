@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.396aa807.js",
+    "static/media/linkedin.svg": "/static/media/linkedin.3701172d033215fe6d047cbcb5c3e2a0.svg",
+    "index.html": "/index.html",
+    "static/media/News.md": "/static/media/News.59cc83ed8b9cb9357bbe.md",
+    "static/media/AZ-900.md": "/static/media/AZ-900.949a5d1bb01f742a8c8b.md",
+    "static/media/SQLD.md": "/static/media/SQLD.f5ebef36cbd477ca4da2.md",
+    "main.396aa807.js.map": "/static/js/main.396aa807.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.396aa807.js"
+  ]
+}
